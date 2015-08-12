@@ -1,1 +1,1 @@
-my .mr
+my vim config
