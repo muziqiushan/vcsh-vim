@@ -1,1 +1,1 @@
-my .vimrc 2
+my .mr
